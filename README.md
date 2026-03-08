@@ -14,3 +14,9 @@ clean.py : A program that cleans the data and provides a function for extracting
 analysis1.py : A program that analyzes year-long smoothie and coffee buying trends. Uses ACF for analysis as well.
 
 analysis2.py : A program that analyzes correlation between certain products and the quantity of them purchased.
+
+LIBRARIES:
+- Pandas
+- Numpy
+- Matplotlib
+- Statsmodels
